@@ -1,0 +1,8 @@
+Looking in indexes: http://mirrors.aliyun.com/pypi/simple
+Collecting onnx
+  Using cached http://mirrors.aliyun.com/pypi/packages/2c/4a/d46f2e9fab103e59f575590e051bfbf04c2ca52c1bc60b86bad004e2dd9b/onnx-1.13.0-cp38-cp38-win_amd64.whl (12.2 MB)
+Requirement already satisfied: typing-extensions>=3.6.2.1 in c:\programdata\miniconda3\envs\yolo5\lib\site-packages (from onnx) (4.4.0)
+Requirement already satisfied: protobuf<4,>=3.20.2 in c:\programdata\miniconda3\envs\yolo5\lib\site-packages (from onnx) (3.20.3)
+Requirement already satisfied: numpy>=1.16.6 in c:\programdata\miniconda3\envs\yolo5\lib\site-packages (from onnx) (1.24.1)
+Installing collected packages: onnx
+Successfully installed onnx-1.13.0
